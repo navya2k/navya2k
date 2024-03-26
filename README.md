@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 ,I'm Navya
 - 🔭 I’m currently looking for full-time opportunities as Software Developer.
 - 🌱 I’m currently learning React and low level system design
 - 👯 I’m looking to collaborate on web dev projects
