@@ -1,6 +1,6 @@
 ### Hi there 👋 ,I'm Navya
-- 🔭 I’m currently looking for full-time opportunities as Software Developer and a Data Analyst and.
-- 🌱 I’m currently learning Django and low level system design
+- 🔭 I’m currently looking for full-time opportunities as Software Developer.
+- 🌱 I’m currently learning React and low level system design
 - 👯 I’m looking to collaborate on web dev projects and machine learning projects
 - 😄 Pronouns: She/her
 - ⚡ Fun fact:I love debugging just kidding! 
